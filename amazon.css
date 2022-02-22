@@ -201,10 +201,14 @@ line-height: 31px;
     margin-top: 42px;
 
 }
+.page5{
+    background-color: #06bbbb;
+    display: flex;
+}
 .page5B{
     background-color: black;
     float: left;
-    width: 471PX;
+    width: 50%;
     margin-left: 142px;
     height: 675px;
 }
