@@ -202,22 +202,36 @@ line-height: 31px;
 
 }
 .page5{
-    background-color: #06bbbb;
-    display: flex;
-}
-.page5B{
-    background-color: black;
-    float: left;
-    width: 50%;
-    margin-left: 142px;
-    height: 675px;
+display: flex;
 }
 
-.page5A
-{
-    float: left;
-    width: 50%;
+.pleft{
+width: 50%;
+background-color: #000000;
+
 }
+.pleft img{
+    height: 400px;
+    width: 650px;
+}
+.pright{
+    width: 50%;
+    background-color: rgb(5, 5, 5);
+    text-align: center;
+   
+}
+.pright h1{
+    font-size: 40px;
+    color: #fff;
+}
+.pright h2{
+    color: #fff;
+    padding-top: 20px;
+    font-size: 20px;
+
+
+}
+
 .button3{
 
     color: #fff;
