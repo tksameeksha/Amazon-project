@@ -1,0 +1,301 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    height: 72px;
+    background-color: #0f171e;
+    color: rgba(242,244,246,.9);
+    display: flex;
+  position:fixed;
+  
+
+}
+
+.imga1{
+    margin-left: 1011px;
+    width: 24px;
+    height: 23px;
+    margin-top: 24px;
+} 
+ .page2
+{
+    width: 100%;
+    height: 360px;
+    
+}
+/*  */
+    
+
+.page2img{
+    width: 100%;
+ /*    padding-top: 70px; */
+}
+
+
+.texta1{
+position: absolute;
+margin-left: 1150px;
+    position: absolute;
+    margin-top: 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.texta2{
+    margin-left: 8px;
+    font-size: 16px;
+    margin-top: 25px;
+    cursor: pointer;
+
+}
+.imga2{
+    width: 110px;
+    margin-left: -995px;
+    height: 34px;
+    margin-top: 21px;
+}
+.page2text1{
+    line-height: 63px;
+    font-size: 2.8rem;
+    color: white;
+    margin-top: -383px;
+    font-weight: 100;
+    margin-left: 18px;
+}
+.page2text2{
+    color: white;
+    margin-left: 69px;
+    margin-top: 17px;
+    line-height: 31px;
+}
+.button1{
+    color: #fff;
+    background-color: #0f79af;
+    text-align: center;
+    font-weight: bold;
+    width: 238px;
+    height: 42.5px;
+    font-size: 13px;
+    margin-top: 35px;
+    margin-left: 105px;
+
+}
+.page2text3{
+    color:white;
+    margin-left: 127px;
+    margin-top: 11px;
+}
+.page3{
+    height: 760px;
+    width: 100%;
+}
+.page3A{
+    width: 50%;
+    float: left;
+    height: 760px;
+    
+}
+.text31{
+    color: black;
+    margin-top: 156px;
+    padding-top: 172px;
+    margin-left: 107px;
+    font-size: 34px;
+}
+
+    
+.text32{
+color: black;
+margin-left: 104px;
+margin-top: 28px;
+font-size: 20px;
+line-height: 31px;
+}
+.img1{
+    height: 135px;
+    width: 196px;
+    margin-top: 308px;
+    
+}
+.page2image{
+    width: 50%;
+    height: 760px;
+    float: left;
+
+}
+
+.img2{
+    height: 135px;
+    width: 196px;
+
+}
+.img3{
+    
+    width: 614px;
+}
+.page4{
+
+ height: 477px;
+    width: 100%;
+    background-color: #0F1111;
+    display: flex;
+}
+.page4A{
+    width: 50%;
+   
+    height: 477px;
+    background-color: black;
+
+}
+.page4B{
+
+ width: 50%;
+    height: 477px;
+    
+    
+}
+.text41{
+    font-size: 35px;
+    color: #fff;
+    margin-left: 182px;
+    margin-left: 168px;
+    margin-top: 16px;
+}
+.text42{
+    font-size: 16px;
+    color: #fff;
+    margin-left: 169px;
+    margin-top: 43px;
+    line-height: 31px;
+}
+    .button2{
+
+    color: #fff;
+    background-color: #0f79af;
+    text-align: center;
+    font-weight: bold;
+    width: 238px;
+    height: 42.5px;
+    font-size: 13px;
+    margin-top: 35px;
+    margin-left: 200px;
+
+    }
+
+.text51{
+    margin-top: 1px;
+    margin-left: 1px;
+    color: #fff;
+    margin-top: 88px;
+    font-size: 35px;
+
+}
+.text52{
+    margin-top: 1px;
+    margin-left: 1px;
+    color: #fff;
+    line-height: 29px;
+    margin-top: 42px;
+
+}
+.page5B{
+    background-color: black;
+    float: left;
+    width: 471PX;
+    margin-left: 142px;
+    height: 675px;
+}
+
+.page5A
+{
+    float: left;
+    width: 50%;
+}
+.button3{
+
+    color: #fff;
+    background-color: #0f79af;
+    text-align: center;
+    font-weight: bold;
+    width: 238px;
+    height: 42.5px;
+    font-size: 13px;
+    margin-top: 35px;
+    margin-left: 111px;
+
+
+}
+.page6{
+    background-color: blueviolet;
+    width: 100%;
+
+
+}
+.page6B{
+
+
+    background-color: black;
+    float: left;
+    width: 50%;
+    height: 377px;
+     margin-top: -377px;
+}
+
+.page6A
+{
+    float: left;
+    background-color: black;
+    width: 50%
+}
+.img5{
+    width: 534px;
+    height: 275px;
+    margin-left: 77px;
+    margin-top: 95px;
+}
+.button4{
+
+    color: #fff;
+    background-color: #0f79af;
+    text-align: center;
+    font-weight: bold;
+    width: 238px;
+    height: 42.5px;
+    font-size: 13px;
+    margin-top: 35px;
+    margin-left: 9px;
+
+    }
+
+.text61{
+    margin-top: 1px;
+    margin-left: 1px;
+    color: #fff;
+    margin-top: 37px;
+    font-size: 35px;
+
+}
+.text62{
+    margin-top: 1px;
+    margin-left: 1px;
+    color: #fff;
+    line-height: 29px;
+    margin-top: 42px;
+}
+.footer{
+    width: 100%;
+    height: 135px;
+    background-color:#0F1111;
+    margin-top: -3px;
+    float: left;
+    text-align: center;
+}
+.footertext{
+    margin-top: 105px;
+    color: cadetblue;
+}
+
+
